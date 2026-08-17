@@ -15,7 +15,7 @@ ___
 Some examples of the errors detected: 
 |  Landmark Index Errors | Landmark Position Errors | BBox Position Errors |
 | --------------------- | ---------------------- | -------------------- |
-| <img src="error_examples\lm_swap.png" alt="Landmark Index Errors" width="200"> |  <img src="error_examples\outside_bbox.png" alt="Landmark Position Errors" width="200"> |  <img src="error_examples\bad_bbox.png" alt="BBox Position Errors" width="200"> |
+| <img src="error_examples\lm_swap.png" alt="Landmark Index Errors" width="240"> |  <img src="error_examples\outside_bbox.png" alt="Landmark Position Errors" width="240"> |  <img src="error_examples\bad_bbox.png" alt="BBox Position Errors" width="240"> |
 
 
 #### The checks used to screen the annotations are listed below and the implementation given in [FESDatasetLabelCheck.py](https://github.com/Paul-Kielty/FES_dataset_revised/blob/main/FESDatasetLabelCheck.py).
